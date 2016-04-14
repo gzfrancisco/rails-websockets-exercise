@@ -1,0 +1,12 @@
+- Revisar plugins de redcar para integrarlo en xcode
+- Revisar si la imagen ya esta adentro del paquete con su hash
+- Revisar si la imagen es muy pesada
+- Revisar las dimenciones de la imagen debe ser exacta al doble para que la tome como valida.
+- Reporte sacar nombre de archivos parecidos para archivos con nombre muy parecidos "escribir mal"
+- Usar ruby 1.8.7
+- Aplicar minimo un hilo
+- Que busque archivos similares por hash
+- Que busque archivos similares a un hash dado
+- Que detecte si es la version retina de un archivo y nombrarlo
+- Que detecte si la version retina es exactamente el doble de la version no retina
+- 

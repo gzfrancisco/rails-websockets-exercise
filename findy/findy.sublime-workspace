@@ -1,0 +1,395 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"file",
+				"file_content"
+			],
+			[
+				"ass",
+				"asset_basename"
+			],
+			[
+				"do",
+				"dob	Insert do |variable| … end"
+			],
+			[
+				"fil",
+				"file_path"
+			],
+			[
+				"code_",
+				"code_files"
+			],
+			[
+				"assets",
+				"asset_files"
+			],
+			[
+				"code",
+				"code_inspector"
+			],
+			[
+				"if",
+				"if	if … end"
+			],
+			[
+				"en",
+				"entry"
+			],
+			[
+				"dir",
+				"directory"
+			],
+			[
+				"cla",
+				"cla	class .. < ParentClass .. initialize .. end"
+			],
+			[
+				"Arg",
+				"ARGF"
+			],
+			[
+				"arg",
+				"ARGF"
+			],
+			[
+				"lo",
+				"location_label"
+			],
+			[
+				"conver",
+				"convertTimeLabel"
+			],
+			[
+				"add",
+				"addSubview"
+			],
+			[
+				"zone",
+				"zonePicker"
+			],
+			[
+				"defa",
+				"defaultTimeZoneLabel"
+			],
+			[
+				"set",
+				"set_default_time_zone"
+			],
+			[
+				"defaultTime",
+				"defaultTimeZoneLabel"
+			],
+			[
+				"def",
+				"defaultTimeZoneLabel"
+			],
+			[
+				"default",
+				"defaultTimeZoneLabel"
+			],
+			[
+				"x",
+				"xPosition"
+			],
+			[
+				"nu",
+				"number_of"
+			],
+			[
+				"b",
+				"Bob"
+			],
+			[
+				"c",
+				"check_schedule"
+			],
+			[
+				"cl",
+				"cla	class .. initialize .. end"
+			],
+			[
+				"fl",
+				"flavor"
+			],
+			[
+				"meth",
+				"method"
+			],
+			[
+				"met",
+				"method"
+			],
+			[
+				"method",
+				"method_missing"
+			],
+			[
+				"pa",
+				"path"
+			],
+			[
+				"say_",
+				"say_hola"
+			],
+			[
+				"say",
+				"say_hello"
+			],
+			[
+				"n",
+				"nomina"
+			],
+			[
+				"st",
+				"start"
+			],
+			[
+				"co",
+				"counter"
+			],
+			[
+				"lam",
+				"lambda"
+			],
+			[
+				"oto",
+				"otromas"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/findy.sublime-build",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"consol",
+				"Set Syntax: R Console"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"set ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 223.0,
+		"history":
+		[
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/gzfrancisco/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/gzfrancisco/Desktop/findy/readme.md",
+		"/Users/gzfrancisco/Desktop/findy/source/findy.rb",
+		"/Users/gzfrancisco/.rvm/rubies/ruby-2.0.0-p0/lib/ruby/site_ruby/2.0.0/rubygems/core_ext/kernel_require.rb",
+		"/Users/gzfrancisco/Desktop/findy/source/\"/Users/gzfrancisco/Desktop/findy/source/data/AppDelegate.m contains",
+		"/Users/gzfrancisco/Desktop/findy/source/\"/Users/gzfrancisco/Desktop/findy/source/data/AppDelegate.m",
+		"/Users/gzfrancisco/Desktop/findy/source/asset_spotlight.rb",
+		"/Users/gzfrancisco/Desktop/findy/source/code_spotlight.rb",
+		"/Users/gzfrancisco/Desktop/findy/source/code_inspector.rb",
+		"/Users/gzfrancisco/Desktop/findy/source/data/AppDelegate.m",
+		"/Users/gzfrancisco/Desktop/findy/source/data/AppDelegate.h",
+		"/Users/gzfrancisco/Desktop/findy/source/\"/Users/gzfrancisco/Desktop/findy/source",
+		"/Users/gzfrancisco/Desktop/findy/source/\"/Users/gzfrancisco/Desktop/findy/source/data",
+		"/Users/gzfrancisco/Desktop/findy/source/data/example_folder/other.json",
+		"/Users/gzfrancisco/Desktop/findy/source/\"example",
+		"/Users/gzfrancisco/Library/Application Support/Sublime Text 3/Packages/User/findy.sublime-build",
+		"/Users/gzfrancisco/Desktop/findy/source/research_report.rb",
+		"/Users/gzfrancisco/Desktop/findy/source/data.json",
+		"/Users/gzfrancisco/Desktop/findy/source/AssetSpotlight.rb",
+		"/Volumes/Wetbag/Dropbox/Activ Dev Assets/projects/anonimo-speedtunes/design/fonts/SeatMeta/SeatMetaMedium Italic.TTF",
+		"/Volumes/Wetbag/Dropbox/Activ Dev Assets/projects/anonimo-speedtunes/design/fonts/SeatMeta/SeatMetBolRom",
+		"/Users/gzfrancisco/Desktop/curso-rubymotion/dia3-notes.md",
+		"/Users/gzfrancisco/Desktop/curso-rubymotion/TimeZoneConverter/app/app_delegate.rb",
+		"/Users/gzfrancisco/Desktop/curso-rubymotion/TimeZoneConverter/app/root_view_utilities.rb",
+		"/Users/gzfrancisco/Desktop/curso-rubymotion/TimeZoneConverter/app/root_view_controller.rb",
+		"/Users/gzfrancisco/Desktop/curso-rubymotion/dia2-notes.md",
+		"/Users/gzfrancisco/Desktop/curso-rubymotion/dia1-notes.md",
+		"/Users/gzfrancisco/Desktop/curso-ruby/dia1-notas.md",
+		"/Users/gzfrancisco/Desktop/curso-ruby/dia2-notes.md",
+		"/Users/gzfrancisco/Desktop/curso-ruby/dia3-notes.md",
+		"/Users/gzfrancisco/Desktop/curso-ruby/dia4-notes.md",
+		"/Users/gzfrancisco/Desktop/curso-ruby/dia5-notes.md",
+		"/Users/gzfrancisco/Desktop/curso-ruby/dia6-notes.md",
+		"/Users/gzfrancisco/Desktop/curso-ruby/dia6-a.rb",
+		"/Users/gzfrancisco/Desktop/curso-ruby/dia6-b.rb",
+		"/Users/gzfrancisco/Desktop/curso-ruby/dia6-c.rb",
+		"/Users/gzfrancisco/Desktop/curso-ruby/dia6-d.rb",
+		"/Users/gzfrancisco/Desktop/curso-ruby/dia6-e.rb",
+		"/Users/gzfrancisco/Desktop/curso-ruby/dia6-f.rb",
+		"/Users/gzfrancisco/Desktop/curso-ruby/dia6-g.rb",
+		"/Users/gzfrancisco/Desktop/curso-ruby/dia6-h.rb",
+		"/Users/gzfrancisco/Desktop/curso-ruby/dia5-c.rb",
+		"/Users/gzfrancisco/Desktop/curso-ruby/dia5-b.rb",
+		"/Users/gzfrancisco/Desktop/curso-ruby/dia5-d.rb",
+		"/Users/gzfrancisco/Desktop/curso-ruby/dia5-e.rb",
+		"/Users/gzfrancisco/Desktop/curso-ruby/dia5-a.rb",
+		"/Users/gzfrancisco/Desktop/curso-ruby/dia5-f.rb",
+		"/Users/gzfrancisco/Desktop/curso-ruby/dia5-g.rb",
+		"/Users/gzfrancisco/Desktop/curso-ruby/dia4-a.rb",
+		"/Users/gzfrancisco/Desktop/curso-ruby/dia4-b.rb",
+		"/Users/gzfrancisco/Desktop/curso-ruby/dia4-c.rb",
+		"/Users/gzfrancisco/Desktop/curso-ruby/dia4-d.rb",
+		"/Users/gzfrancisco/Desktop/curso-ruby/dia4-e.rb",
+		"/Users/gzfrancisco/Desktop/curso-ruby/dia4-f.rb",
+		"/Users/gzfrancisco/Desktop/curso-ruby/dia4-g.rb",
+		"/Users/gzfrancisco/Desktop/curso-ruby/dia4-h.rb",
+		"/Users/gzfrancisco/Desktop/curso-ruby/dia4-i.rb",
+		"/Users/gzfrancisco/Desktop/curso-ruby/dia4-j.rb",
+		"/Users/gzfrancisco/Desktop/curso-ruby/dia3-a.rb",
+		"/Users/gzfrancisco/Desktop/curso-ruby/dia3-b.rb",
+		"/Users/gzfrancisco/Desktop/curso-ruby/dia2-e.rb",
+		"/Users/gzfrancisco/Desktop/curso-ruby/dia2-d.rb",
+		"/Users/gzfrancisco/Desktop/curso-ruby/dia2-c.rb",
+		"/Users/gzfrancisco/Desktop/curso-ruby/dia2-b.rb",
+		"/Users/gzfrancisco/Desktop/curso-ruby/dia2-a.rb",
+		"/Users/gzfrancisco/Desktop/curso-ruby/dia2-f.rb"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 123.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"rb",
+			"user"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 289.0
+	},
+	"project": "findy.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 193.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

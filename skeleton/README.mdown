@@ -1,0 +1,29 @@
+# Skeleton
+
+Create folder and files structures with a yaml file.
+
+When i start a new project i have to create new folders, files, and some structure for that new project. Documents about the bussines model, database files, some images, folder for assets, fonts, images (for iphone and ipad)... it's annoying.
+
+And i care about conventions, because in every project i see the project structure is a mess.
+
+This is my solution, skeleton.
+
+Skeleton takes a yalm file parse, and then create folders and files. Is not THE GEM, its a gem about create structure and order with one step.
+
+## Roadmap
+
+Obviusly this is a alpha-beta-nightbuild with bad implementations. I will tune this code, I promess.
+
+1.0.0 The first versions will create the files and directories.
+1.0.1 Run in command line.
+1.0.2 Run with skeletonfile by default
+1.0.3 Add a good test
+1.0.4 Verbose mode would be fine.
+1.0.5 Number for permissions in the key-value comment.
+1.0.6 Create some skeletons conventions.
+1.0.7 Embed some skeletons conventions.
+
+## License
+
+Call my lawyer Saul, bytch xD
+Its open source MIT.

@@ -1,0 +1,7 @@
+root_directory:
+  - file.ext
+  - other_directory:
+    - nested_file.ext
+    - nested_directory:
+  - empty_directory:
+  - file_without_extension
